@@ -1,0 +1,37 @@
+_repo: The-Castle-of-AndalusiaA-Comic-Opera-in-Three-Acts_36651
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Inchbald, Mrs.
+    alias: Inchbald, Elizabeth Simpson
+    birthdate: 1753
+    deathdate: 1821
+    gutenberg_agent_id: '1305'
+    url: http://www.gutenberg.org/2009/agents/1305
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Inchbald
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Keeffe, John
+    alias: O'Keefe, John
+    birthdate: 1747
+    deathdate: 1833
+    gutenberg_agent_id: '37842'
+    url: http://www.gutenberg.org/2009/agents/37842
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2011-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Librettos'
+- !lcc 'PR'
+title: 'The Castle of Andalusia: A Comic Opera, in Three Acts'
+url: http://www.gutenberg.org/ebooks/36651
