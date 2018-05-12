@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '37842'
     url: http://www.gutenberg.org/2009/agents/37842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36651#The-Castle-of-AndalusiaA-Comic-Opera-in-Three-Acts
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2011-07-07'
 gutenberg_type: Text
